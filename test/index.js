@@ -1,7 +1,7 @@
 import http from 'http';
 import assert from 'assert';
 
-import '../lib/index.js';
+import '../index.js';
 
 describe('Example node server', () => {
     it('Should return 200', done => {

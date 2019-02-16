@@ -10,7 +10,7 @@
     "nodemon": "^1.18.10"
   },
   "scripts": {
-    "build": "babel lib -d dist",
+    "build": "babel index.js -d dist",
     "start": "npm run build && nodemon dist/index.js",
     "serve": "node dist/index.js",
     "test": "mocha --require babel-register"
