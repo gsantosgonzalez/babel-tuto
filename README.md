@@ -2,9 +2,9 @@
 
 ## Instalation
 
-git clone https://github.com/gsantosgonzalez/babel-tuto.git
-
 ```bash
+
+$ git clone https://github.com/gsantosgonzalez/babel-tuto.git
 $ cd babel-tuto
 $ npm install
 $ npm start
